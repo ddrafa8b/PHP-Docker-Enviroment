@@ -8,7 +8,7 @@
 ## Instrucciones de despliegue
 1. Clona este repositorio en tu máquina:
    ```bash
-   git clone <URL_DEL_REPOSITORIO>
+   git clone [<URL_DEL_REPOSITORIO>](https://github.com/ddrafa8b/PHP-Docker-Enviroment.git)
    cd PHP_Docker_Enviroment
    ```
 
